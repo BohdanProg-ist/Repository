@@ -1,3 +1,3 @@
 fun main() {
-    print("Helloooooooy")
+    print("Helloooooooy swittt!")
 }
